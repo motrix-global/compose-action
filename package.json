@@ -15,7 +15,7 @@
   "dependencies": {
     "@actions/core": "^1.8.2",
     "@actions/github": "^4.0.0",
-    "docker-compose": "^0.24.3"
+    "docker-compose": "git://github.com/nogara/docker-compose.git#master"
   },
   "devDependencies": {
     "eslint": "^8.24.0",
